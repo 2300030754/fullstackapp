@@ -11,8 +11,8 @@ pipeline {
         FRONTEND_DIR = 'crud_frontend/crud_frontend-main'
 
         TOMCAT_URL = 'http://184.72.122.226:9090/manager/text'
-        TOMCAT_USER = 'admin'
-        TOMCAT_PASS = 'admin'
+        TOMCAT_USER = 'mahitha'
+        TOMCAT_PASS = 'mahitha@333'
 
         BACKEND_WAR = 'springapp1.war'
         FRONTEND_WAR = 'frontapp1.war'
